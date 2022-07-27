@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NataliaNeklyudova
-- 👀 I’m interested in in data analysis and neural networks
+- 👀 I’m interested in data analysis and neural networks
 - 💞️ I'm open to cooperation
 - 📫 To contact me, write to nekludovanatalia89@gmail.com
 
